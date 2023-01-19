@@ -1,4 +1,4 @@
-### hey there
+## <h2>नमस्ते (Namaste)🙏, I'm [Ankush Thakur!](https://ankush-thakur-portfolio.netlify.app/)
 
 <a href="https://www.instagram.com/ankush_08thakur/">
   <img align="left" alt="Ankush's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
