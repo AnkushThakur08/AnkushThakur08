@@ -14,10 +14,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ## Connect With Me
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankush-thakur-bba3521a0/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jay-bhogayata-b553a2221/" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/ankush-thakur-bba3521a0/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jay-bhogayata-b553a2221/" height="30" width="30" /></a>
 
-</p><a href="https://instagram.com/ankush_08thakur/">
-  <img align="left" alt="Ankush's Instagram" height="30" width="40" s src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://instagram.com/ankush_08thakur/">
+  <img align="left" alt="Ankush's Instagram" height="30" width="30" s src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
 <br />
@@ -39,7 +39,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ## Skills
 
-- 👨‍💻 HTML, CSS, JavaScript
+- 👨‍💻 HTML, CSS, **JavaScript**
 - 😄 Bootstrap, Tailwind,
 - ⚙️ **React**, **Angular**
 - 💽 Firebase, GraphQL,
@@ -67,9 +67,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <br />
 <br />
-<br />
-<br />
-<br />
+
 <!-- TODO-IST:END -->
 
 ---
