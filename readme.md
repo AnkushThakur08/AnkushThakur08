@@ -1,24 +1,52 @@
 ## <h2>नमस्ते (Namaste)🙏, I'm [Ankush Thakur!](https://ankush-thakur-portfolio.netlify.app/)
 
-<a href="https://instagram.com/ankush_08thakur/">
-  <img align="left" alt="Ankush's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+---
+
+## I'm a Full Stack Javascript developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hello!+It's+Ankush+Thakur+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Full+Stack+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India" alt="Ankush Thakur" width="650" height="55">
+
+<br />
+
+<!-- hi, i'm [Ankush Thakur](https://ankush-thakur-portfolio.netlify.app/), a Passionate JavaScript Full Stack Developer and a Freelance Software Engineer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
+
+## Connect With Me
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankush-thakur-bba3521a0/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jay-bhogayata-b553a2221/" height="30" width="30" /></a>
+
+</p><a href="https://instagram.com/ankush_08thakur/">
+  <img align="left" alt="Ankush's Instagram" height="30" width="40" s src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://linkedin.com/in/ankush-thakur-bba3521a0/">
-  <img align="left" alt="Ankush's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
+<br />
+<br />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ankushthakur08.ankushthakur08)
 
 <br />
+<br />
 
-hi, i'm [Ankush Thakur](https://ankush-thakur-portfolio.netlify.app/), a Passionate JavaScript Full Stack Developer and a Freelance Software Engineer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+  <img align="center" alt="GIF" src="./images/code.gif" width="80%" height="320" />
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-  <img align="right" alt="GIF" src="./images/code.gif" width="500" height="320" />
+  <br />
   
-- 💼 any freelance work? do reach, [email](atpara99@gmail.com) :)
+- 💼 any freelance work? do reach, [email](atpara99@gmail.com):)
 - 💬 ask me about anything, i am happy to help;
+
+---
+
+## Skills
+
+- 👨‍💻 HTML, CSS, JavaScript
+- 😄 Bootstrap, Tailwind,
+- ⚙️ **React**, **Angular**
+- 💽 Firebase, GraphQL,
+- 👨‍💻 **Node**, **MySQL**, **Mongo**
+- 📝 I regularly write articles on [Hashnode](https://ankushthakur.hashnode.dev/)
+
+- 📫 How to reach me: atpara99@gmail.com;
 
 **languages and tools:**
 
@@ -44,7 +72,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br />
 <!-- TODO-IST:END -->
 
-# 📈 my github stats
+---
+
+## 📈 My Github stats
 
 <table>
   <tr>
@@ -55,4 +85,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushthakur08&theme=dark" alt="jigar-sable" /></p>
+
+---
+
+## My Activity graph
+
+[![Brijesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ankushthakur08&bg_color=000000&color=ce0dc1&line=28a81f&point=00ff59&area=true&hide_border=true)](https://github.com/brijeshvadalia/github-readme-activity-graph)
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
   </div>
