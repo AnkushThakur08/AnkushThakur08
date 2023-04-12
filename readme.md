@@ -8,6 +8,8 @@
 
 <br />
 
+
+
 <!-- hi, i'm [Ankush Thakur](https://ankush-thakur-portfolio.netlify.app/), a Passionate JavaScript Full Stack Developer and a Freelance Software Engineer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
@@ -17,11 +19,13 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <a href="https://linkedin.com/in/ankush-thakur-bba3521a0/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jay-bhogayata-b553a2221/" height="30" width="30" /></a>
 
 <a href="https://instagram.com/ankush_08thakur/" target="_blank">
-  <img align="left" alt="Ankush's Instagram" height="30" width="30" s src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Ankush's Instagram" height="30" width="30" s src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /> 
 </a>
 
 <br />
 <br />
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankushthakur08" alt="riyatiwarii" /></a> </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ankushthakur08.ankushthakur08)
 
@@ -56,8 +60,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60"/> </a> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60"/> </a> 
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60"/> </a> 
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+  
 
 <img align="left" alt="SQL" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -85,9 +93,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ---
 
-## My Activity graph
+<!-- ## My Activity graph
 
-[![Brijesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ankushthakur08&bg_color=000000&color=ce0dc1&line=28a81f&point=00ff59&area=true&hide_border=true)](https://github.com/brijeshvadalia/github-readme-activity-graph)
+[![Brijesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ankushthakur08&bg_color=000000&color=ce0dc1&line=28a81f&point=00ff59&area=true&hide_border=true)](https://github.com/brijeshvadalia/github-readme-activity-graph) -->
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
   </div>
